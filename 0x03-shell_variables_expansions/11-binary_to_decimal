@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bass
 echo "$((2#$BINARY))" 
