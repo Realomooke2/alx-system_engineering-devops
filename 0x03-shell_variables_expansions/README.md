@@ -2,7 +2,18 @@
 
 ## Description
 
-This project builds upon previous knowledge with the introduction of [Expansions](http://linuxcommand.org/lc3_lts0080.php), [Shell Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html), [Variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html), [Shell initialization files](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html) and [The alias Command](http://www.linfo.org/alias.html).
+This project builds upon previous knowledge with the introduction of 
+
+## Resources
+
+## Read or watch:
+- [Expansions](http://linuxcommand.org/lc3_lts0080.php)
+- [Shell Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html)
+- [Variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
+- [Shell initialization files](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
+- [The alias Command](http://www.linfo.org/alias.html).
+- [Technical Writing](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230226T080725Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f00da681377e2f5a119b6c7ed3e121a7bdd1e05d4ac4290d5d031774cd58087c)
+
 
 ## New commands introduced in this project include:
 `printenv`, `set`, `unset`, `export`, `alias`, `unalias`, `.`, `source`, `printf`
