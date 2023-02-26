@@ -1,3 +1,15 @@
+# 0x00. Shell, basics
+
+### The shell is a command-line interface (CLI) program that provides a way to interact with a computer's operating system through textual commands. The most popular shell is Bash (Bourne Again SHell), which is the default shell for most Linux distributions.
+
+### When using the shell, commands are entered one at a time, and the shell executes each command and returns a result. Common shell commands include navigating the file system (cd, ls), creating and editing files (touch, nano), managing processes (ps, kill), and more.
+
+### Shell commands can be combined and piped together to perform more complex operations. For example, the output of one command can be used as the input for another command using the pipe symbol (|).
+
+### The shell also provides features like command-line completion, history, and tab completion to make it easier to use. These features can save time and make it easier to navigate the shell.
+
+### Overall, understanding the basics of the shell is an important skill for anyone who wants to work with Linux or other Unix-like operating systems.
+
 ## 0. Where am I
 	
 - Write a script that prints the absolute path name of the current working directory.
