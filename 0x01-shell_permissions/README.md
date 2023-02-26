@@ -1,3 +1,8 @@
+# 0x01. Shell, permissions
+
+
+## Shell permissions are a set of three characters that determine who can access and modify files and directories in a Unix-based operating system. The characters represent read (r), write (w), and execute (x) permissions for the owner, the group, and others. The permissions are represented as a string of nine characters and can be viewed and changed using commands like "ls -l" and "chmod". Changing permissions can have significant security implications and should be done with care.
+
 ## 0. My name is Betty
 
 - Create a script that switches the current user to the user betty.
