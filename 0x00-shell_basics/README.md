@@ -11,7 +11,7 @@
 ### Overall, understanding the basics of the shell is an important skill for anyone who wants to work with Linux or other Unix-like operating systems.
 
 # Resources
-## [Read or watch:
+## Read or watch:
 
 - [What Is “The Shell”?](https://linuxcommand.org/lc3_lts0010.php)
 - [Navigation](https://linuxcommand.org/lc3_lts0020.php)
