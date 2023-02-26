@@ -1,6 +1,18 @@
 # Project 0x03. Shell, init files, variables and expansions
 
-## Description
+## Shell variable expansions are a feature in shell scripting languages, such as Bash or Zsh, that allow you to reference and manipulate variables within your scripts. Variables are named containers that hold values, which can be accessed and modified as needed.
+
+There are several ways to expand variables in a shell script, including:
+
+$varname: This expansion returns the value of the variable "varname".
+
+${varname}: This expansion is similar to the first, but allows for more complex operations, such as concatenation with other strings or the application of a default value.
+
+$((expression)): This expansion allows you to perform arithmetic operations on variables and numeric literals.
+
+$@ and $*: These expansions represent all of the positional parameters passed to the script or function.
+
+By using shell variable expansions, you can create more dynamic and flexible scripts that can respond to changes in their environment and input.
 
 This project builds upon previous knowledge with the introduction of 
 
