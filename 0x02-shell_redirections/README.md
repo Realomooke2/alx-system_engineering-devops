@@ -2,6 +2,14 @@
 
 ## Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in Shell.
 
+
+## Resources
+## Read or watch
+
+- [Shell, I/O Redirection](https://linuxcommand.org/lc3_lts0070.php)
+- [Special characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
+
+
 ## 0. Hello World
 
 - Write a script that prints “Hello, World”, followed by a new line to the standard output.
